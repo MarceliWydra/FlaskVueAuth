@@ -17,8 +17,8 @@ Create the tables and run the migrations:
 
 ```sh
 $ python run.py create_db
-$ python manage.py db init
-$ python manage.py db migrate
+$ python run.py db init
+$ python run.py db migrate
 ```
 
 4. Create example user
